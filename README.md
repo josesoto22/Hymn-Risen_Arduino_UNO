@@ -7,24 +7,3 @@ Connect the buzzer to GND and DIGITAL 11.
 
 https://templeos.org/
 Terry A. Davis (1969 - 2018).
-
-#            aooooo,                
-#            aooooo``              
-#            aooooo``               
-#     (((((( aooooo``((((((         
-#  oooo@@ @C@*;,./k@@ @@ @oooo      
-#  oooooo@@ @@@@@@@@ @@koooooo``    
-#  oooooooo\@ @/@@ @@ooooooooo``    
-#   `````````'*@*/'````````````     
-#     @@@(   aooooo`` @@@@          
-#     @@ @   aooooo`` @ @@          
-#      @@@   aooooo`` @@@,          
-#      @@    aooooo``  @@           
-#       @    aooooo``  (@           
-#            aooooo``               
-#            aooooo``               
-#            aooooo``               
-#            aooooo``               
-#            aooooo``               
-#             ```````              
-#               `````      
